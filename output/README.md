@@ -1,5 +1,7 @@
 # headscale
 
+> Fork of [dariogriffo/headscale-debian](https://github.com/dariogriffo/headscale-debian) (MIT); the original packaging is by Dario Griffo. Served at [deb.gaofn.xyz](https://deb.gaofn.xyz) for Debian 12 (bookworm) and 13 (trixie).
+
 Headscale is an open source, self-hosted implementation of the Tailscale
 control server.
 
